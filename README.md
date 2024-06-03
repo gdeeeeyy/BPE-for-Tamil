@@ -11,5 +11,3 @@ For example,
 
 I should try to figure out a way to implement this Punarchi Vidhi as code. Implementation of this would help in training of Tamil Large Language models(both Masked and Causal Language Models) 
 as this may allow us to properly create pair encodings and helps the transformer model to better understand the embeds of the words.
-
-Maybe I can try making a dictionary of the words with how it looks after splitting the word.
